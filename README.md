@@ -1,4 +1,3 @@
-### Hello world!! 👋
 
 <!--
 **larissaspaulino/larissaspaulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +18,7 @@ Here are some ideas to get you started:
 
  
 
-## I'm Larissa!
+## Hello world!! I'm Larissa! 👋
 
  
 
