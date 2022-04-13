@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m in a 1-year bootcamp, I studied react and now I'm currently learning node.js.  
+:books: I’m in a 1-year bootcamp, I studied react and now I'm currently learning node.js, typescript and SQL.  
 
 :outbox_tray: 2022 Goals: study back-end (python and node.js) and work as a Software Engineer.
 
