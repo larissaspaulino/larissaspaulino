@@ -26,10 +26,7 @@ Here are some ideas to get you started:
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m in a 1-year bootcamp, I've been studying javascript, react, node, typescript, SQL and docker.  
-
-:outbox_tray: 2022 Goals: focus on back-end (python and node.js) and work as a Software Engineer.
-
+:books: I’m a junior software developer, I've been working with typescript, react, node.
 
 
 ## Checkout my Linkedin!
