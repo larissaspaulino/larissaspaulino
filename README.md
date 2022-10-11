@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
  
 
-:computer: I'm FullStack Developer!
+:computer: I'm Junior Software Developer!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m a junior software developer, I've been working with typescript, react, node.
+:books: I've been working with Typescript, React, NodeJS.
 
 
 ## Checkout my Linkedin!
