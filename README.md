@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 :house_with_garden: I’m from Brazil.
 
-:computer: I'm Software Developer at marvin, a brazilian start up.
+:computer: I'm a Software Developer at [marvin](https://www.linkedin.com/company/marvin-com-vc/mycompany/), a brazilian startup.
 
 :books: I've been working with Typescript, React, NodeJS, trunk based development.
 
