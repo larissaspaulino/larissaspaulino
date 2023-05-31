@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 :computer: I'm a Software Developer at [marvin](https://www.linkedin.com/company/marvin-com-vc/mycompany/), a brazilian startup.
 
-:books: I've been working with Typescript, React, NodeJS, trunk based development.
+:books: I've been working with Typescript, React, NodeJS, Kotlin, SQL, trunk based development.
 
 
 ## Checkout my Linkedin!
