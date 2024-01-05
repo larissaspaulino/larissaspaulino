@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissaspaulino/)](https://www.linkedin.com/in/larissaspaulino/)
 
-## Techs
+## My Stacks
 
 <!-- [![larissaspaulino GitHub stats](https://github-readme-stats.vercel.app/api?username=larissaspaulino)](https://github.com/larissaspaulino/github-readme-stats)
 [![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissaspaulino&layout=compact)](https://github.com/larissaspaulino/github-readme-stats) -->
