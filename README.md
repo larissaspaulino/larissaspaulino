@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ## Hello world!! I'm Larissa! 👋
 
-:computer: I'm a Software Developer at [marvin](https://www.linkedin.com/company/marvin-com-vc/mycompany/), a brazilian fintech.
+:computer: I'm a Software Developer at Itaú Unibanco, biggest bank in Latin America.
 
-:books: I've been working with Kotlin, Spring WebFlux, Typescript, SQL.
+:books: I've been working with Kotlin, Java, Spring Framework.
 
 ## Checkout my Linkedin!
 
